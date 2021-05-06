@@ -1,5 +1,5 @@
 ### Hi there 👋 
-🔭 I’m currently working on KT ds FullStack Engineer of "https://bigsight.kt.com/"
+🔭 I’m currently working on KT ds as FullStack Engineer of "https://bigsight.kt.com/"
 
 🌱 I’m currently learning SpringBoot and Vue JS
 
