@@ -1,7 +1,9 @@
 ### Hi there 👋 
 🔭 I’m currently working on KT ds as FullStack Engineer of "https://bigsight.kt.com/"
 
-🌱 I’m currently learning SpringBoot and Vue JS
+😄 Let me introduce myself with my portfolio, https://woozy-passbook-7ae.notion.site/_v1-0-3d4b178037814edf9f93d1e480cdb637
+
+🌱 I’m currently learning SpringBoot and MSA
 
 <!--
 **carnival77/carnival77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
