@@ -1,7 +1,7 @@
 ### Hi there 👋 
 🔭 I’m currently working on KT ds as FullStack Engineer of "https://bigsight.kt.com/"
 
-😄 Let me introduce myself with my portfolio, https://woozy-passbook-7ae.notion.site/_v1-0-3d4b178037814edf9f93d1e480cdb637
+😄 Let me introduce myself with my portfolio, https://woozy-passbook-7ae.notion.site/Evan-e80121ba5b3544d090a68339ac134162
 
 🌱 I’m currently learning SpringBoot and MSA
 
