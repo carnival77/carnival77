@@ -1,9 +1,9 @@
 ### Hi there 👋 
-🔭 I’m currently working on KT ds as SW Engineer of [KT 빅사이트](https://bigsight.kt.com), [KT 마케팅코치](https://tims.bigsight.kt.com)
+🔭 I’m currently working on KT ds as SW Engineer of [KT BigSight](https://bigsight.kt.com), [KT Marketing Coach](https://tims.bigsight.kt.com)
 
-😄 Let me introduce myself with my portfolio, [포트폴리오](https://woozy-passbook-7ae.notion.site/Evan-e80121ba5b3544d090a68339ac134162)
+😄 Let me introduce myself with my portfolio, [Notion Portfolio](https://woozy-passbook-7ae.notion.site/Evan-e80121ba5b3544d090a68339ac134162), [Blog](https://carnival.tistory.com/)
 
-🌱 I’m currently learning Spring and Vue JS
+🌱 I’m currently learning Spring
 
 <!--
 **carnival77/carnival77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
