@@ -1,9 +1,9 @@
 ### Hi there 👋 
 🔭 I’m currently working on KT ds as SW Engineer of [KT BigSight](https://bigsight.kt.com)
 
-😄 Let me introduce myself with my portfolio, [Portfolio](https://github.com/carnival77/carnival77/files/10529255/_.pdf), [Notion Portfolio](https://woozy-passbook-7ae.notion.site/Evan-e80121ba5b3544d090a68339ac134162), [Blog](https://carnival.tistory.com/)
+😄 Let me introduce myself with my portfolio, [Portfolio](https://github.com/user-attachments/files/16938346/Portpolio.pdf), [Notion Portfolio](https://woozy-passbook-7ae.notion.site/Evan-e80121ba5b3544d090a68339ac134162), [Blog](https://carnival.tistory.com/)
 
-🌱 I’m currently learning Spring
+🌱 I’m currently learning Spring, JPA, Cloud Native
 
 <!--
 **carnival77/carnival77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
