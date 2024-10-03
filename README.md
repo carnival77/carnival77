@@ -22,7 +22,7 @@
 
 ### Algorithm
 
-백준 플레티넘 5 (상위 4.63%) - 전 플랫폼 종합 449문제 해결
+백준 플레티넘 5 (상위 4.63%) - 총 774번 PS (444문제 해결, 330문제 복습)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=stam0325)](https://solved.ac/stam0325/)
 
