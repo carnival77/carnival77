@@ -1,6 +1,6 @@
 ### Introduction
 
-🔭 I’m currently working on KT ds as SW Engineer of [KT BigSight](https://bigsight.kt.com)
+🔭 I’m currently working on KT ds as SW Engineer of [Beast](https://blog.naver.com/PostView.naver?blogId=ktds_official&logNo=223398274552&redirect=Dlog&widgetTypeCall=true&topReferer=https%3A%2F%2Fwww.google.com%2F&trackingCode=rss&directAccess=false) and previously developed [KT BigSight](https://bigsight.kt.com).
 
 ⚡ My Vision is, 사람들의 삶의 질 증진에 기여하기 위한 서비스 개발
 
