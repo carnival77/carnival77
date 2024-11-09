@@ -9,7 +9,8 @@
 - Java & Spring 기반 백엔드 개발/운영자
 - MySQL, PostgreSQL, MyBatis, JPA, QueryDSL 기반 데이터 모델링/DBMS 운영/데이터 처리 경험
 
-😄 Let me introduce myself with my portfolio, [Portfolio](https://github.com/user-attachments/files/16938346/Portpolio.pdf), [Notion Portfolio](https://woozy-passbook-7ae.notion.site/Evan-e80121ba5b3544d090a68339ac134162), [Blog](https://carnival.tistory.com/)
+😄 Let me introduce myself with my resume/portfolio, [resume.pdf](https://github.com/user-attachments/files/17686261/_v1.5_20241109.pdf),
+ [Portfolio](https://github.com/user-attachments/files/17686266/_v1.1_20241109.pdf), [Notion Portfolio](https://woozy-passbook-7ae.notion.site/Evan-e80121ba5b3544d090a68339ac134162), [Blog](https://carnival.tistory.com/)
 
 🌱 I’m currently learning Spring, JPA, Cloud Native
 
